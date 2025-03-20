@@ -1,0 +1,85 @@
+[
+    {
+      "Recipe_image": "https://i.ibb.co.com/Zp3rw8pS/istockphoto-1303427318-1024x1024.jpg",
+      "Recipe_id": "R001",
+      "Recipe_name": "Spicy Grilled Chicken",
+      "Short_description": "A flavorful and spicy grilled chicken served with fresh vegetables.",
+      "Ingredients": [
+        "500 g chicken breast",
+        "100 ml olive oil",
+        "2 tbsp chili powder",
+        "1 tbsp garlic powder",
+        "1 lemon (squeezed)",
+        "200 g mixed vegetables"
+      ],
+      "Preparing_time": 30,
+      "Calories": 350
+    },
+    {
+      "Recipe_image": "https://i.ibb.co.com/YTKWyJjP/Rectangle-20170.jpg",
+      "Recipe_id": "R002",
+      "Recipe_name": "Veggie Stir-fry",
+      "Short_description": "A colorful stir-fry of mixed vegetables and tofu with a tangy sauce.",
+      "Ingredients": [
+        "150 g tofu",
+        "200 g bell peppers",
+        "100 g broccoli",
+        "50 g carrots",
+        "2 tbsp soy sauce",
+        "1 tbsp sesame oil"
+      ],
+      "Preparing_time": 20,
+      "Calories": 220
+    },
+    {
+      "Recipe_image": "https://i.ibb.co.com/DPyS1HCN/thai-food-tom-yum-kung-river-prawn-spicy-soup.jpg",
+      "Recipe_id": "R003",
+      "Recipe_name": "Beef Bolognese",
+      "Short_description": "A rich and savory beef bolognese sauce served with pasta.",
+      "Ingredients": [
+        "400 g ground beef",
+        "1 onion (chopped)",
+        "2 cloves garlic (minced)",
+        "300 g canned tomatoes",
+        "100 g carrots",
+        "250 g spaghetti"
+      ],
+      "Preparing_time": 45,
+      "Calories": 600
+    },
+
+    
+    {
+      "Recipe_image": "https://i.ibb.co.com/W4cRDqK5/ukrainian-russian-national-red-soup-borsch-closeup.jpg",
+      "Recipe_id": "R004",
+      "Recipe_name": "Salmon Salad",
+      "Short_description": "A light and healthy salad with grilled salmon and avocado.",
+      "Ingredients": [
+        "200 g salmon fillet",
+        "50 g spinach",
+        "1 avocado (sliced)",
+        "1 cucumber (sliced)",
+        "1 tbsp olive oil",
+        "1 tbsp balsamic vinegar"
+      ],
+      "Preparing_time":15,
+      "Calories": 400
+    },
+    {
+      "Recipe_image": "https://i.ibb.co.com/Xf17356M/pexels-beyza-yalcin-153182170-30892987.jpg",
+      "Recipe_id": "R005",
+      "Recipe_name": "Pineapple Fried Rice",
+      "Short_description": "A tropical twist on traditional fried rice with chunks of pineapple.",
+      "Ingredients": [
+        "200 g cooked rice",
+        "100 g pineapple chunks",
+        "2 eggs",
+        "1 tbsp soy sauce",
+        "1 tbsp green onions",
+        "1 tbsp sesame oil"
+      ],
+      "Preparing_time":25,
+      "Calories": 500
+    }
+  ]
+  
