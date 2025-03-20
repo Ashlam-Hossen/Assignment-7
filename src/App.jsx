@@ -27,7 +27,7 @@ function App() {
      const newCookingTime = cookingTime + time;
      setCookingTime(newCookingTime);
 
-    console.log('remove bookmark',Recipe_id)
+    // console.log('remove bookmark',Recipe_id)
     const remainingRecipeCounts = recipeCounts.filter(RecipeCount => RecipeCount.Recipe_id !== Recipe_id);
     setCookingTime(remainingRecipeCounts);
   }

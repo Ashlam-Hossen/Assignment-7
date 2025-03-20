@@ -3,7 +3,7 @@ import RecipeCount from '../RecipeCount/RecipeCount';
 
 const RecipeCounts = ({ recipeCounts, cookingTime, handleAddToPreperingTime }) => {
     return (
-        <div className='w-2/4 ml-5  mt-10 border-2 rounded-xl'>
+        <div className='w-2/4 ml-5  border-2 rounded-xl'>
             <div className=" text-center ">
 
                 <div>
